@@ -30,5 +30,4 @@
 - 帮助中心: https://support.tuya.com/en/help
 - 技术支持工单中心: https://service.console.tuya.com
 
-## 使用的开源License
 

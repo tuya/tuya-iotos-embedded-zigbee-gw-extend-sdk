@@ -26,9 +26,8 @@ SDK, as the basement of multiple gateway products, plays a vital role to enhance
 
 
 ## Support
-- Tuya Developer Help Center:https://developer.tuya.com/en/
+- Tuya Developer Webiste:https://developer.tuya.com/en/
 - Tuya Smart Help Center: https://support.tuya.com/en/help
 - Technical Support Council: https://service.console.tuya.com
 
-## License
 
