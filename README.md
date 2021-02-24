@@ -1,33 +1,33 @@
-# Tuya Embedded Zigbee Gateway Extend SDK
+# Tuya Embedded Zigbee Gateway Extension SDK
 
 [English](README.md) | [中文版](README_cn.md)
 
-## Introduction
-Tuya gateway extension SDK, developed and provided by Tuya Gateway Department, is a solution code to connect with Tuya Cloud Development Platform. SDK combines Gateway & Zigbee module, realize the communication among Gateway & Tuya Cloud Development Platform & Tuya APP. You can focus on business development without concern for the communication layer, which will lower the threshold for gateway development.
+## Overview
+Tuya gateway extension SDK is developed and provided by Tuya Gateway Department. The SDK is a solution code to connect with Tuya Cloud Development Platform. The SDK integrates the Gateway & Zigbee module, and realizes the communication among the gateway, Tuya Cloud Development Platform, and Tuya app. You can focus on business development without concern for the communication layer. This lowers the threshold for gateway development.
 
-SDK, as the basement of multiple gateway products, plays a vital role to enhance product differentiation. Products include but are not limited to:
+The SDK is the basement of multiple gateway products, and plays a vital role to enhance product differentiation. The supported products include but are not limited to:
 
-- Zigbee Gateway:
-    Powered by SDK, a third-party system can control and manage Zigbee devices.
+- Zigbee gateway
+    Powered by the SDK, a third-party system can control and manage Zigbee devices.
 
-- Zigbee Extension Gateway:
-    Powered by SDK, the third-party system can link with non-Tuya ecology Zigbee devices. Developers can link non-Tuya ecology Zigbee sub-devices with Tuya Cloud Development Platform.
+- Zigbee extension gateway
+    Powered by the SDK, a third-party system can link with non-Tuya ecology Zigbee devices. Developers can link non-Tuya ecology Zigbee sub-devices with the Tuya Cloud Development Platform.
 
-- Multi-protocol Gateway
-    Powered by SDK, a third-party system can link with multiple protocol devices, link non-Zigbee protocol devices, and Tuya Cloud Development Platform. Here are examples of multi-protocol devices, Zigbee + 443, Zigbee + 443 + ZWave.
+- Multi-protocol gateway
+    Powered by the SDK, a third-party system can link with multi-protocol devices, and link non-Zigbee protocol devices with Tuya Cloud Development Platform. For example, multi-protocol devices support the following combinations of protocols: Zigbee + 443, Zigbee + 443 + Z-Wave.
 
-- Multi-function Gateway
-    Powered by SDK, a third-party system can act as a Multi-function gateway. Multiple smart scenarios can be realized by connecting with night lights, sound-light alarms, different sensors.
-## Get Started
+- Multi-function gateway
+    Powered by the SDK, a third-party system can act as a multi-function gateway. For example, you can connect to night lights, sound-light alarms, and different sensors to implement multiple smart scenarios.
+## Get started
 
-[Development Manual](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/gateway-extension-sdk-access-solution/tuya-gateway-extension-sdk-development-manual?id=K9dudnkt0lnx4)
+[Extension SDK for Tuya Gateway](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/gateway-extension-sdk-access-solution/tuya-gateway-extension-sdk-development-manual?id=K9dudnkt0lnx4)
 
-## Demo Reference
+## References
 
 
 ## Support
-- Tuya Developer Webiste:https://developer.tuya.com/en/
+- Tuya IoT Developer Platform: https://developer.tuya.com/en/
 - Tuya Smart Help Center: https://support.tuya.com/en/help
-- Technical Support Council: https://service.console.tuya.com
+- Technical Support Console: https://service.console.tuya.com
 
 
