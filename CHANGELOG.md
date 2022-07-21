@@ -2,40 +2,56 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
-## v2.2.7
+## v3.1.8
 
 ### Release Date
 
-2020.12.25
-
-### Highlights
-
-- Add xxx feature
-- Support xxx
+2022.07.21
 
 ### Fixed Bugs
 
-- Optimize the problem of xxx
+- Fixed local scene will be executed when SDK started
 
-<div>
-        &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.
-</div>
 
-## v2.2.0
+## v3.1.4
 
 ### Release Date
 
-2020.12.25
+2022.06.28
 
 ### Highlights
 
-- Add xxx feature
-- Support xxx
+- Added more Zigbee devices
+- Optimized the stability of gateway fault replacement
+- Optimized AP commissioning
 
 ### Fixed Bugs
 
-- Optimize the problem of xxx
+- Fixed some bugs
 
-<div>
-        &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.
-</div>
+## v3.1.2
+
+### Release Date
+
+2022.02.25
+
+### Highlights
+
+- Added Zigbee local management feature
+- Added log settings API
+- Added gateway activation status API
+- Added gateway fault replacement
+
+## v3.1.0
+
+### Release Date
+
+2021.11.05
+
+### Highlights
+
+- Added notification API for device online status changed
+
+### Fixed Bugs
+
+- Fixed some bugs
