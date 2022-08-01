@@ -2,6 +2,16 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.10
+
+### Release Date
+
+2022.08.01
+
+### Fixed Bugs
+
+- Optimized local scene feature
+
 ## v3.1.8
 
 ### Release Date
