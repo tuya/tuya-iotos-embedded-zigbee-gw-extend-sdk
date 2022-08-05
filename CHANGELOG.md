@@ -2,6 +2,16 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.12
+
+### Release Date
+
+2022.08.05
+
+### Fixed Bugs
+
+- Fixed local scene executed twice issue
+
 ## v3.1.10
 
 ### Release Date
