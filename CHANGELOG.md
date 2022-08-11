@@ -2,6 +2,16 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.14
+
+### Release Date
+
+2022.08.11
+
+### Fixed Bugs
+
+- Fixed automation issue when gateway had been reset
+
 ## v3.1.12
 
 ### Release Date
