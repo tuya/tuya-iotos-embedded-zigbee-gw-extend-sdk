@@ -2,6 +2,16 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.16
+
+### Release Date
+
+2022.09.19
+
+### Fixed Bugs
+
+- Fixed automation scenes doesn't work on engineering mode
+
 ## v3.1.14
 
 ### Release Date
