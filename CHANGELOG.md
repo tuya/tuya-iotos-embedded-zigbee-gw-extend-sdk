@@ -2,6 +2,20 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.18
+
+### Release Date
+
+2023.02.17
+
+### Highlights
+
+- Update to TYGWZ-01 v1.20.0
+- Add `tuya_user_iot_misc_dev_bind_ext` API
+- Add `tuya_user_iot_misc_dev_ver_update_ext` API
+- Add `tuya_user_iot_misc_dev_upgd_progress_report` API
+- Add `misc_dev_upgrade_v2_cb` callback
+
 ## v3.1.16
 
 ### Release Date

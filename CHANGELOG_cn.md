@@ -2,6 +2,21 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.18
+
+### 发布日期
+
+2023/02/17
+
+### 新增功能
+
+- 同步有线大网关 v1.20.0
+- 工程模式支持复合场景开关产品
+- 新增 `tuya_user_iot_misc_dev_bind_ext` 接口
+- 新增 `tuya_user_iot_misc_dev_ver_update_ext` 接口
+- 新增 `tuya_user_iot_misc_dev_upgd_progress_report` 接口
+- 新增 `misc_dev_upgrade_v2_cb ` 回调接口
+
 ## v3.1.16
 
 ### 发布日期
