@@ -2,6 +2,16 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
+## v3.1.19
+
+### Release Date
+
+2023.04.12
+
+### Highlights
+
+- Disable automation during device power on
+
 ## v3.1.18
 
 ### Release Date
